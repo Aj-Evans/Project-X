@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 91a154ffda42bb640bc61ffcbd742b63
+timeCreated: 1447872868
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mainMenuCanvas: {fileID: 110756, guid: 77318de4d0d3c3f4ea105bf7a9a77d28, type: 2}
+  - creditsCanvas: {fileID: 151394, guid: 373ed05e07b0e934c83e240a0968c2da, type: 2}
+  - settingsCanvas: {fileID: 112234, guid: b7af8bdf32e6ffb44b541c9e88dfb398, type: 2}
+  - musicCanvas: {fileID: 183952, guid: efd401ecf347c0c4496887657633e7a6, type: 2}
+  - teamCanvas: {fileID: 103122, guid: 8941da1b477f3fe488be3ceffa3343a9, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
